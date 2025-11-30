@@ -1,0 +1,39 @@
+Rencana sprint
+
+Jumlah Sprint
+2  Sprint (masing-masing 1 minggu)
+
+Sprint 1 Goal:
+- Setup project
+- analisis
+- desain arsitektur
+- setup Git & tools
+- start development
+
+Sprint 2 Goal:
+- Pengujian funsional & non-fungsional
+- evaluasi
+- Memastikan user mampu menggunakan sistem 
+- launch
+
+Sprint 1 Work Items:
+1.1 Analisis & Product Backlog
+1.2 Desain Arsitektur & Database
+1.3 Rencana Sprint & Setup Tools
+2.3 Modul Pelaporan & Dashboard
+2.4 Modul Autentikasi & Keamanan
+2.5 Integrasi & Build Incremental
+
+Sprint 2 Work Items:
+3.1 Unit & Integration Test
+3.2 User Acceptance Test
+3.3 Sprint Review & Retrospektif
+4.1 Dokumentasi Teknis & Panduan 
+4.2 Pelatihan Stakeholder
+5. Launching
+
+Tools yang digunakan:
+- GitHub
+- Trello
+- VScode
+- SQL
